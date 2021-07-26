@@ -93,7 +93,7 @@ class _HomeState extends State<Home> {
             children: <Widget>[
               SizedBox(height: 60),
               Text(
-                'IFruit',
+                'Any Veggie Fruit',
                 style: TextStyle(
                     color: Colors.white,
                     fontWeight: FontWeight.w800,

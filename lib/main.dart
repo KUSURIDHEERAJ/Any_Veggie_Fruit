@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'IFruit',
+      title: 'Any Veggie Fruit',
       home: MySplash(),
       debugShowCheckedModeBanner: false,
     );
